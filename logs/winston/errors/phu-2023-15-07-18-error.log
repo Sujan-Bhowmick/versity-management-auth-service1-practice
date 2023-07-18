@@ -1,0 +1,13 @@
+{
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'Failed to connect database connection 1 to 54.210.90.12:27017 timed out',
+  stack: 'MongoNetworkTimeoutError: connection 1 to 54.210.90.12:27017 timed out\n' +
+    '    at Timeout._onTimeout (C:\\next-level\\versity-management-auth-service1\\node_modules\\mongodb\\src\\cmap\\connection.ts:327:26)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at processTimers (node:internal/timers:512:7)',
+  label: 'PH',
+  timestamp: '2023-07-15T12:23:08.871Z',
+  [Symbol(errorLabels)]: Set(1) { 'ResetPool' },
+  [Symbol(beforeHandshake)]: true
+}

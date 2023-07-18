@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\nl-practice\\versity-management-auth-service\\logs\\winston\\successes\\.2e8e09fa370b4a70bac3ab735ebe3ea2b7b743f9-audit.json",
+    "files": [
+        {
+            "date": 1688213649832,
+            "name": "C:\\nl-practice\\versity-management-auth-service\\logs\\winston\\successes\\phu-2023-01-07-18-error.log",
+            "hash": "eec59dd9e7b3c271f2c0e1f12759f8f3f2b79b629346479c52397d18200ed5fc"
+        },
+        {
+            "date": 1688221027035,
+            "name": "C:\\nl-practice\\versity-management-auth-service\\logs\\winston\\successes\\phu-2023-01-07-20-error.log",
+            "hash": "11893b299b8925d07e0e0f89440a188f98dc53f413d8ffc5494546c43907e273"
+        }
+    ],
+    "hashType": "sha256"
+}
