@@ -4,15 +4,16 @@ import { IGenericErrorMessage } from '../../interfaces/error';
 import config from '../../config';
 import handleValidationError from '../../errors/handleValidationError';
 import ApiError from '../../errors/ApiError';
-import { errorLogger } from '../../shared/logger';
+// import { errorLogger } from '../../shared/logger';
 import { ZodError } from 'zod';
 import handleZodError from '../../errors/handleZodError';
 import handleCastError from '../../errors/handleCastError';
 
 const globalErrorHandler: ErrorRequestHandler = (error, req, res) => {
-  config.env === 'development'
-    ? console.log('globalErrorHandler ~~', error)
-    : errorLogger.error('globalErrorHandler~', error);
+  // config.env === 'development'
+  //   ?
+  //    console.log('globalErrorHandler ~~', error)
+  //   : errorLogger.error('globalErrorHandler~', error);
 
   let statusCode = 500;
   let message = 'Something went wrong !';

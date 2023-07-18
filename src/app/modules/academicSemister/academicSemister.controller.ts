@@ -24,7 +24,7 @@ const createSemister = catchAsync(async (req: Request, res: Response) => {
 
 const getAllSemister = catchAsync(async (req: Request, res: Response) => {
   const filters = pick(req.query, academicSemisterFilteratbleFields);
-  console.log(filters);
+  // console.log(filters);
 
   const paginationOptions = pick(req.query, paginationFields);
 

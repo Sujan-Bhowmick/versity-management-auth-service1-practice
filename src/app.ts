@@ -1,6 +1,9 @@
-import express, { Application, Request, Response } from 'express';
+import express, { Application } from 'express';
 import cors from 'cors';
-import userRouter from './app/modules/users/users.route';
+import notFoundError from './app/middlewares/notFoundError';
+import globalErrorHandler from './app/middlewares/globalErrornHadler';
+import router from './app/routes';
+import { Request, Response } from 'express-serve-static-core';
 const app: Application = express();
 
 app.use(cors());
@@ -12,11 +15,17 @@ app.use(express.urlencoded({ extended: true }));
 // Application routes
 // console.log(app.get("env"))
 
-app.use('/api/v1/users/', userRouter);
+app.use('/api/v1/', router);
 
 // Testing
 app.get('/', async (req: Request, res: Response) => {
-  res.send('Working Successfully');
+  res.send('Working Successfuly');
 });
+
+// global error handler
+app.use(globalErrorHandler);
+
+// not found route
+app.use(notFoundError);
 
 export default app;

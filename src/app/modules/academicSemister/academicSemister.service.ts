@@ -30,7 +30,7 @@ const getAllSemister = async (
   paginationOptions: IPaginationOptions
 ): Promise<IGenericResponse<IAcademicSemister[]>> => {
   const { searchTerm, ...filtersData } = filters;
-  console.log(searchTerm);
+  // console.log(searchTerm);
 
   const andConditions = [];
 

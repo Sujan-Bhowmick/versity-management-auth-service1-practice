@@ -5,3 +5,5 @@ export const academicFacultyTitle: IAcademicFacultyTitle[] = [
   'Business Administration',
   'Arts and Social Science',
 ];
+
+export const academicFacultyFilteratbleFields = ['searchTerm', 'title'];
