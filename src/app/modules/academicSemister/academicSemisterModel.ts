@@ -37,6 +37,9 @@ const academicSemisterSchema = new Schema<IAcademicSemister>(
   },
   {
     timestamps: true,
+    toJSON: {
+      virtuals: true,
+    },
   }
 );
 

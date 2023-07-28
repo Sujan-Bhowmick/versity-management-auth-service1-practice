@@ -4,6 +4,7 @@ import notFoundError from './app/middlewares/notFoundError';
 import globalErrorHandler from './app/middlewares/globalErrornHadler';
 import router from './app/routes';
 import { Request, Response } from 'express-serve-static-core';
+import { generateFacultyId } from './app/modules/user/user.utils';
 const app: Application = express();
 
 app.use(cors());
@@ -27,5 +28,16 @@ app.use(globalErrorHandler);
 
 // not found route
 app.use(notFoundError);
+
+// const academicSemister = {
+//   year: '2023',
+//   code: '01',
+// };
+
+const testId = async () => {
+  const result = await generateFacultyId();
+  console.log(result);
+};
+testId();
 
 export default app;

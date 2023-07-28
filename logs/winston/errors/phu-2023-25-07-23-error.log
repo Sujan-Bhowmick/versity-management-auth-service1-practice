@@ -1,0 +1,129 @@
+{
+  message: 'Failed to connect database Server selection timed out after 30000 ms',
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-xbmwjzi-shard-00-00.fl7cfgf.mongodb.net:27017' => ServerDescription {
+        address: 'ac-xbmwjzi-shard-00-00.fl7cfgf.mongodb.net:27017',
+        type: 'RSSecondary',
+        hosts: [
+          'ac-xbmwjzi-shard-00-00.fl7cfgf.mongodb.net:27017',
+          'ac-xbmwjzi-shard-00-01.fl7cfgf.mongodb.net:27017',
+          'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017'
+        ],
+        passives: [],
+        arbiters: [],
+        tags: {
+          workloadType: 'OPERATIONAL',
+          nodeType: 'ELECTABLE',
+          provider: 'AWS',
+          region: 'US_EAST_1'
+        },
+        minWireVersion: 0,
+        maxWireVersion: 17,
+        roundTripTime: 3154.1200000000003,
+        lastUpdateTime: 113464256,
+        lastWriteDate: 2023-07-25T17:03:25.000Z,
+        error: null,
+        topologyVersion: {
+          processId: new ObjectId("64b68d6b2f78cc5451bac7f6"),
+          counter: 4
+        },
+        setName: 'atlas-3l3e94-shard-0',
+        setVersion: 3,
+        electionId: null,
+        logicalSessionTimeoutMinutes: 30,
+        primary: 'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017',
+        me: 'ac-xbmwjzi-shard-00-00.fl7cfgf.mongodb.net:27017',
+        '$clusterTime': {
+          clusterTime: new Timestamp({ t: 1690304605, i: 6 }),
+          signature: {
+            hash: Binary.createFromBase64("TYfZ6bpofT7pjla2vb+DThbJ7Js=", 0),
+            keyId: new Long("7200462098504089604")
+          }
+        }
+      },
+      'ac-xbmwjzi-shard-00-01.fl7cfgf.mongodb.net:27017' => ServerDescription {
+        address: 'ac-xbmwjzi-shard-00-01.fl7cfgf.mongodb.net:27017',
+        type: 'RSSecondary',
+        hosts: [
+          'ac-xbmwjzi-shard-00-00.fl7cfgf.mongodb.net:27017',
+          'ac-xbmwjzi-shard-00-01.fl7cfgf.mongodb.net:27017',
+          'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017'
+        ],
+        passives: [],
+        arbiters: [],
+        tags: {
+          provider: 'AWS',
+          workloadType: 'OPERATIONAL',
+          nodeType: 'ELECTABLE',
+          region: 'US_EAST_1'
+        },
+        minWireVersion: 0,
+        maxWireVersion: 17,
+        roundTripTime: 6766.4800000000005,
+        lastUpdateTime: 113468758,
+        lastWriteDate: 2023-07-25T17:03:30.000Z,
+        error: null,
+        topologyVersion: {
+          processId: new ObjectId("64b68f77e11289c315f9565f"),
+          counter: 3
+        },
+        setName: 'atlas-3l3e94-shard-0',
+        setVersion: 3,
+        electionId: null,
+        logicalSessionTimeoutMinutes: 30,
+        primary: 'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017',
+        me: 'ac-xbmwjzi-shard-00-01.fl7cfgf.mongodb.net:27017',
+        '$clusterTime': {
+          clusterTime: new Timestamp({ t: 1690304610, i: 1 }),
+          signature: {
+            hash: Binary.createFromBase64("dPdo+HnJ8HRjnjWs5sUK2EL25Qs=", 0),
+            keyId: new Long("7200462098504089604")
+          }
+        }
+      },
+      'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017' => ServerDescription {
+        address: 'ac-xbmwjzi-shard-00-02.fl7cfgf.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 113439370,
+        lastWriteDate: 0,
+        error: null,
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-3l3e94-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: 30
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: Server selection timed out after 30000 ms\n' +
+    '    at _handleConnectionErrors (C:\\nl-practice\\versity-management-auth-service1\\node_modules\\mongoose\\lib\\connection.js:792:11)\n' +
+    '    at NativeConnection.openUri (C:\\nl-practice\\versity-management-auth-service1\\node_modules\\mongoose\\lib\\connection.js:767:11)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'PH',
+  timestamp: '2023-07-25T17:03:33.052Z'
+}
+{ level: 'error', label: 'PH', timestamp: '2023-07-25T17:18:03.606Z' }
+{ level: 'error', label: 'PH', timestamp: '2023-07-25T17:25:59.794Z' }

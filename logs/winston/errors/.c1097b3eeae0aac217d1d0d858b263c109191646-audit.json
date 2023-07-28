@@ -1,0 +1,130 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\.c1097b3eeae0aac217d1d0d858b263c109191646-audit.json",
+    "files": [
+        {
+            "date": 1690011438589,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-22-07-13-error.log",
+            "hash": "611ad41b98754f209a5c41c09837eba5c65169f482429c5519be4e0dca4cf498"
+        },
+        {
+            "date": 1690033903263,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-22-07-19-error.log",
+            "hash": "ad7f82efc9b1c39ee71158d4216ce0f104045b5cb79bc91be2846ec927dcef7d"
+        },
+        {
+            "date": 1690034782075,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-22-07-20-error.log",
+            "hash": "34819f3073d53402ed8bfaacd93d23c8c9498a18933d83269c257b148492d979"
+        },
+        {
+            "date": 1690045362653,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-22-07-23-error.log",
+            "hash": "a4e7f5d61a77030b53bffb850edaac70d93895028b8d8b63275a768e34f6424a"
+        },
+        {
+            "date": 1690180929796,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-24-07-12-error.log",
+            "hash": "bc1789b58038eb5967ac92d7bb226271cb6ed1c2c9e06c11c50a6fe7e8542e2e"
+        },
+        {
+            "date": 1690193460480,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-24-07-16-error.log",
+            "hash": "2f3022b792527783263093c0adfc5d5c1fa05947dc854d27c2508f8c359e6838"
+        },
+        {
+            "date": 1690196424280,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-24-07-17-error.log",
+            "hash": "850198f92df94250795642cd0fa6eff41867ecddbe7c4c311ce88443c3288c0d"
+        },
+        {
+            "date": 1690255073242,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-25-07-09-error.log",
+            "hash": "3ab1759f5fced0300e415588b093ae515de04b78f63ed231fb21ae35f90fd386"
+        },
+        {
+            "date": 1690258286203,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-25-07-10-error.log",
+            "hash": "054215894389aea9e155c7fba909493e82a6e6e8d1592635c8b564b09a6b971a"
+        },
+        {
+            "date": 1690261780826,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-25-07-11-error.log",
+            "hash": "4ca0067c936d57b932d399245c0e7a970bb76b57570a3cc512d4d25f7a3e2c20"
+        },
+        {
+            "date": 1690304582643,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-25-07-23-error.log",
+            "hash": "bf585c5a20d2b23591da7139858381e22188107661a5835a7da4d2a873ed5cac"
+        },
+        {
+            "date": 1690337362694,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-08-error.log",
+            "hash": "f457705e6175997032da3dcc353bad2308fd1e5479b5cb0aaf1807424c0b7874"
+        },
+        {
+            "date": 1690340854886,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-09-error.log",
+            "hash": "65f929fecb1d9f76061bfaaba0a00a76b3588eb899bbeb2ec49fe1d847fb0a7e"
+        },
+        {
+            "date": 1690344581372,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-10-error.log",
+            "hash": "40643512e19a896a8a83f32c0ae5fc6e5ae7c10ae9f2699489286a534894fe56"
+        },
+        {
+            "date": 1690350731301,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-11-error.log",
+            "hash": "d74a3638bdf2e7732d05ebb001a7a42e64b1250fd7c741edfc1537d3a968720a"
+        },
+        {
+            "date": 1690351324288,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-12-error.log",
+            "hash": "54e5db07ae7653b0bd5afe2e75633b72bdd5705679255a2a9db9bc60805dcfd5"
+        },
+        {
+            "date": 1690390793030,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-22-error.log",
+            "hash": "3dc499b857cc27f4c3f8bbef5c86853aeb874bfd247971e305ce6831316d73d0"
+        },
+        {
+            "date": 1690391237701,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-26-07-23-error.log",
+            "hash": "68a495f50972bf0d6418b027f57bd30837b8cd3c739243d086935cbcaa0be567"
+        },
+        {
+            "date": 1690428226450,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-27-07-09-error.log",
+            "hash": "f57a6a70d2a88f1b6d497a6d956cc2cbdab1efb2f76ccbfb8664e8ffd6e0ed97"
+        },
+        {
+            "date": 1690430420890,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-27-07-10-error.log",
+            "hash": "4ac5fae799d6bd1c2c5516136888cf71085eaad21cea6685a7ee5651f7f24415"
+        },
+        {
+            "date": 1690452002476,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-27-07-16-error.log",
+            "hash": "d3906cab88b16f667caa1f7fc36dd08aac689c547e3b7d5d5102c77ac7d4d236"
+        },
+        {
+            "date": 1690456715757,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-27-07-17-error.log",
+            "hash": "4d0e4281fa96b40a9536cdd73268df8c4f4caf280024b1a2f6314aedbea55f62"
+        },
+        {
+            "date": 1690470418241,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-27-07-21-error.log",
+            "hash": "214213f883e4e45e905219610a5a7de873291f2293fdd276046cdf5ade5814d4"
+        },
+        {
+            "date": 1690512026659,
+            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\errors\\phu-2023-28-07-08-error.log",
+            "hash": "e66b382001a251c2676cbf0f02649ce33c8979a052b385dffd0e05248fe5083b"
+        }
+    ],
+    "hashType": "sha256"
+}

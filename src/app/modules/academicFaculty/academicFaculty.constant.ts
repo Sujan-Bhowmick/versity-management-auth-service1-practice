@@ -1,9 +1,3 @@
-import { IAcademicFacultyTitle } from './academicFaculty.interface';
-
-export const academicFacultyTitle: IAcademicFacultyTitle[] = [
-  'Science and Engineering',
-  'Business Administration',
-  'Arts and Social Science',
-];
+export const academicFacultySearchableFields = ['title'];
 
 export const academicFacultyFilteratbleFields = ['searchTerm', 'title'];

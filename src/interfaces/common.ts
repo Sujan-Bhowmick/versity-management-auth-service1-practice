@@ -6,7 +6,7 @@ export type IGenericResponse<T> = {
     limit: number;
     total: number;
   };
-  data?: T | undefined;
+  data: T;
 };
 
 export type IGenericErrorResponse = {
