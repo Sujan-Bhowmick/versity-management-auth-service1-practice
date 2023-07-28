@@ -1,130 +1,130 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\.7da0c7c5688a2f09120b9a6977dc73d5c4cb62c5-audit.json",
+  "files": [
+    {
+      "date": 1690011438580,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-13-success.log",
+      "hash": "8333f02e5a93e2100fe4079667f859cd655dec6791a05c621eee170dffb5e784"
     },
-    "auditLog": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\.7da0c7c5688a2f09120b9a6977dc73d5c4cb62c5-audit.json",
-    "files": [
-        {
-            "date": 1690011438580,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-13-success.log",
-            "hash": "8333f02e5a93e2100fe4079667f859cd655dec6791a05c621eee170dffb5e784"
-        },
-        {
-            "date": 1690033903252,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-19-success.log",
-            "hash": "26c5418bd034f2a22b3cf7e7dbe3d248485ea718c7e07309facba5adeed1e494"
-        },
-        {
-            "date": 1690034782063,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-20-success.log",
-            "hash": "5c6e3915f8393c3215d25814ed55c5366472bab9e96b9a57c504689208fbb14e"
-        },
-        {
-            "date": 1690045362641,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-23-success.log",
-            "hash": "9cf36a2908c49d81914399cc55bf1109cd87820575ac43418e3747df546b564a"
-        },
-        {
-            "date": 1690180929775,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-12-success.log",
-            "hash": "41f0c9b2355e780e922073a14111f80f2fd4fea4b6a5bd15e03a82d86254cde7"
-        },
-        {
-            "date": 1690193460460,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-16-success.log",
-            "hash": "394f84640284c82cd216f2e248a3a77a127a2783b57baafd438275150f52f295"
-        },
-        {
-            "date": 1690196404620,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-17-success.log",
-            "hash": "4c9cb1c9a58d6b078c9b54bacee574da1c80d9c1be020f916bf8d0a70b1403f6"
-        },
-        {
-            "date": 1690255073218,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-09-success.log",
-            "hash": "f3bbde12b042b57721808bfa33dc434971a615372b1541531c2b657ed8ec17ae"
-        },
-        {
-            "date": 1690258286196,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-10-success.log",
-            "hash": "e50f615a2c14b0a2b065d24700cf3ae5d00c8e7d160494f5cf1ff4cb6ee8bf29"
-        },
-        {
-            "date": 1690261780813,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-11-success.log",
-            "hash": "56d423742cf8296eb05fe798f057e01f42f20c9d0d0dd3294a9a90dbe7435738"
-        },
-        {
-            "date": 1690304582627,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-23-success.log",
-            "hash": "30169fa5e507989e376d77021505fad01e25617a374ec6d8f732e5cdbeba0e1a"
-        },
-        {
-            "date": 1690337362669,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-08-success.log",
-            "hash": "1fc6cf5bba35456b00e97adc748875e9b3e4bb5aede7915d7243830631971c29"
-        },
-        {
-            "date": 1690340854867,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-09-success.log",
-            "hash": "ce679ddc44d5824785af66ee054704a18e74c06a71c2227eca1356ca629d8e77"
-        },
-        {
-            "date": 1690344581342,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-10-success.log",
-            "hash": "78b6b6b646d4183169a3363ed986772fdae5b899f968e8071e58106e3020791a"
-        },
-        {
-            "date": 1690350731290,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-11-success.log",
-            "hash": "56427ebf4e49f6f44be1f0ef6eb96637305a60b07c5075a614a5d56bf9a19791"
-        },
-        {
-            "date": 1690351324282,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-12-success.log",
-            "hash": "5cc338a0f5d02f2d9e49ad5262c96fd382b27521ce4fbdc344a93c9ab07c7a4d"
-        },
-        {
-            "date": 1690390792997,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-22-success.log",
-            "hash": "e2fdad743c8b8f49f5d5834eff96702b7eff1157e2b53134c54d3d551be7b70c"
-        },
-        {
-            "date": 1690391237692,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-23-success.log",
-            "hash": "452eb0aaca617d771297fb0532f1921a8591401ff27ebc2b33f09b99e6be3990"
-        },
-        {
-            "date": 1690428226434,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-09-success.log",
-            "hash": "08f9f2d1c8bc18c955889bbdde0db6e930363cee808b1c9c65662b7496142d7c"
-        },
-        {
-            "date": 1690430420883,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-10-success.log",
-            "hash": "2ba1b7a2ef66a29511f99eb1b8f92d0b7bc89cb2c311123dc7a9cad945daec24"
-        },
-        {
-            "date": 1690452002461,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-16-success.log",
-            "hash": "7e5ea1a0e511bbcda7a494d55d836c86da2ac48d78cc93d3da996b1fc2127ef1"
-        },
-        {
-            "date": 1690456715749,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-17-success.log",
-            "hash": "cfeaef3b613c83920bf7a5d13bba0e8f64defd7564d4b54c6828b7a5c6f6b372"
-        },
-        {
-            "date": 1690470418225,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-21-success.log",
-            "hash": "f09d475bf9f5017fdc11fd300278272a5d50a591651f126e3089c61a1bbed5e4"
-        },
-        {
-            "date": 1690512026642,
-            "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-28-07-08-success.log",
-            "hash": "0f3ab7f4956f930cf33308db434c09a532406a295487a1ff97cfd48aa6e9f7cf"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1690033903252,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-19-success.log",
+      "hash": "26c5418bd034f2a22b3cf7e7dbe3d248485ea718c7e07309facba5adeed1e494"
+    },
+    {
+      "date": 1690034782063,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-20-success.log",
+      "hash": "5c6e3915f8393c3215d25814ed55c5366472bab9e96b9a57c504689208fbb14e"
+    },
+    {
+      "date": 1690045362641,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-22-07-23-success.log",
+      "hash": "9cf36a2908c49d81914399cc55bf1109cd87820575ac43418e3747df546b564a"
+    },
+    {
+      "date": 1690180929775,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-12-success.log",
+      "hash": "41f0c9b2355e780e922073a14111f80f2fd4fea4b6a5bd15e03a82d86254cde7"
+    },
+    {
+      "date": 1690193460460,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-16-success.log",
+      "hash": "394f84640284c82cd216f2e248a3a77a127a2783b57baafd438275150f52f295"
+    },
+    {
+      "date": 1690196404620,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-24-07-17-success.log",
+      "hash": "4c9cb1c9a58d6b078c9b54bacee574da1c80d9c1be020f916bf8d0a70b1403f6"
+    },
+    {
+      "date": 1690255073218,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-09-success.log",
+      "hash": "f3bbde12b042b57721808bfa33dc434971a615372b1541531c2b657ed8ec17ae"
+    },
+    {
+      "date": 1690258286196,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-10-success.log",
+      "hash": "e50f615a2c14b0a2b065d24700cf3ae5d00c8e7d160494f5cf1ff4cb6ee8bf29"
+    },
+    {
+      "date": 1690261780813,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-11-success.log",
+      "hash": "56d423742cf8296eb05fe798f057e01f42f20c9d0d0dd3294a9a90dbe7435738"
+    },
+    {
+      "date": 1690304582627,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-25-07-23-success.log",
+      "hash": "30169fa5e507989e376d77021505fad01e25617a374ec6d8f732e5cdbeba0e1a"
+    },
+    {
+      "date": 1690337362669,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-08-success.log",
+      "hash": "1fc6cf5bba35456b00e97adc748875e9b3e4bb5aede7915d7243830631971c29"
+    },
+    {
+      "date": 1690340854867,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-09-success.log",
+      "hash": "ce679ddc44d5824785af66ee054704a18e74c06a71c2227eca1356ca629d8e77"
+    },
+    {
+      "date": 1690344581342,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-10-success.log",
+      "hash": "78b6b6b646d4183169a3363ed986772fdae5b899f968e8071e58106e3020791a"
+    },
+    {
+      "date": 1690350731290,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-11-success.log",
+      "hash": "56427ebf4e49f6f44be1f0ef6eb96637305a60b07c5075a614a5d56bf9a19791"
+    },
+    {
+      "date": 1690351324282,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-12-success.log",
+      "hash": "5cc338a0f5d02f2d9e49ad5262c96fd382b27521ce4fbdc344a93c9ab07c7a4d"
+    },
+    {
+      "date": 1690390792997,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-22-success.log",
+      "hash": "e2fdad743c8b8f49f5d5834eff96702b7eff1157e2b53134c54d3d551be7b70c"
+    },
+    {
+      "date": 1690391237692,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-26-07-23-success.log",
+      "hash": "452eb0aaca617d771297fb0532f1921a8591401ff27ebc2b33f09b99e6be3990"
+    },
+    {
+      "date": 1690428226434,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-09-success.log",
+      "hash": "08f9f2d1c8bc18c955889bbdde0db6e930363cee808b1c9c65662b7496142d7c"
+    },
+    {
+      "date": 1690430420883,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-10-success.log",
+      "hash": "2ba1b7a2ef66a29511f99eb1b8f92d0b7bc89cb2c311123dc7a9cad945daec24"
+    },
+    {
+      "date": 1690452002461,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-16-success.log",
+      "hash": "7e5ea1a0e511bbcda7a494d55d836c86da2ac48d78cc93d3da996b1fc2127ef1"
+    },
+    {
+      "date": 1690456715749,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-17-success.log",
+      "hash": "cfeaef3b613c83920bf7a5d13bba0e8f64defd7564d4b54c6828b7a5c6f6b372"
+    },
+    {
+      "date": 1690470418225,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-27-07-21-success.log",
+      "hash": "f09d475bf9f5017fdc11fd300278272a5d50a591651f126e3089c61a1bbed5e4"
+    },
+    {
+      "date": 1690512026642,
+      "name": "C:\\nl-practice\\versity-management-auth-service1\\logs\\winston\\successes\\phu-2023-28-07-08-success.log",
+      "hash": "0f3ab7f4956f930cf33308db434c09a532406a295487a1ff97cfd48aa6e9f7cf"
+    }
+  ],
+  "hashType": "sha256"
 }
