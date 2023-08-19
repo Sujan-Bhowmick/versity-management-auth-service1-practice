@@ -1,0 +1,50 @@
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000,
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-17T06:35:27.380Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00001' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-17T06:36:42.303Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00001' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-17T06:40:49.564Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00001' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-17T06:42:11.702Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { id: 1 },
+  keyValue: { id: 'F-00001' },
+  level: 'error',
+  label: 'PH',
+  timestamp: '2023-08-17T06:44:28.372Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}

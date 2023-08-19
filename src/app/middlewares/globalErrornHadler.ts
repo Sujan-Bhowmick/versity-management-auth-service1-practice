@@ -66,6 +66,3 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res) => {
 };
 
 export default globalErrorHandler;
-
-// path:
-// message:

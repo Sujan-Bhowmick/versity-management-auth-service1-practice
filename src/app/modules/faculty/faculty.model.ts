@@ -40,6 +40,7 @@ export const facultySchema = new Schema<IFaculty>(
     },
     contactNo: {
       type: String,
+      uniqure: true,
       required: true,
     },
     emergencyContactNo: {

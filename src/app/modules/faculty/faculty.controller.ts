@@ -58,9 +58,9 @@ const updateFaculty = catchAsync(async (req: Request, res: Response) => {
 
 const deleteFaculty = catchAsync(async (req: Request, res: Response) => {
   const id = req.params.id;
-  const result = FacultyService.deleteFaculty(id);
+  const result = await FacultyService.deleteFaculty(id);
 
-  sendResponse(res, {
+  sendResponse<IFaculty>(res, {
     statusCode: httpStatus.OK,
     success: true,
     message: 'Faculty delete Successfully',

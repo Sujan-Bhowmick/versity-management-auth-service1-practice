@@ -15,7 +15,7 @@ router.patch(
 
 router.get('/', StudentController.getAllStudents);
 
-// router.delete('/:id' , StudentController.deleteStudent);
+router.delete('/:id', StudentController.deleteStudent);
 
 // router.patch(
 //   '/create-student',

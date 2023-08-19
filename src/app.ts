@@ -5,9 +5,12 @@ import globalErrorHandler from './app/middlewares/globalErrornHadler';
 import router from './app/routes';
 import { Request, Response } from 'express-serve-static-core';
 import { generateFacultyId } from './app/modules/user/user.utils';
+import cookieParser from 'cookie-parser';
+
 const app: Application = express();
 
 app.use(cors());
+app.use(cookieParser());
 
 // parser
 app.use(express.json());

@@ -10,6 +10,8 @@ export const facultySearchableFields = [
 export const facultyFilteratbleFields = [
   'searchTerm',
   'id',
+  'gender',
+  'designation',
   'bloodGroup',
   'email',
   'contactNo',
